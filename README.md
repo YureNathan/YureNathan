@@ -1,4 +1,4 @@
-### Olá sous Yure 👋
+### Olá sou Yure 👋
 
 - 🌱 Eu estou aprendendo JavaScript e outras linguagens,
 - 💻 Futuro programador. 
