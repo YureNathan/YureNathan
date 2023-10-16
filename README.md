@@ -47,6 +47,7 @@
 <a href="https://www.linkedin.com/in/yurenathan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>&nbsp;&nbsp;
 
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
 
 
 
