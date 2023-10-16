@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">💻| Futuro programador. <br><br> Tenho 24 anos, Sou do interior do Rio grande do Norte. Estou cursando curso de front-end do <strong>Vai na Web<strong>. Apaixonado por Tecnologia ❤️.</p>&nbsp;
+<p align="center">💻| Futuro programador.| <br><br> Tenho 24 anos, Sou do interior do Rio grande do Norte. Estou cursando curso de front-end do <strong>Vai na Web<strong>. Apaixonado por Tecnologia ❤️.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=YureNathan&theme=tokyonight&mode=weekly" />
@@ -22,10 +22,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <img src="Programando.gif" min-width="450px" max-width="450px" width="450px" align="right" margin="0px" alt="programando pc">
-
-
-
-
 
 
 
