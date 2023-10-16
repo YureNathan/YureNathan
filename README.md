@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">💻| Futuro programador| <br><br> Tenho 24 anos, Sou do interior do Rio grande do Norte. Estou cursando curso de front-end do <strong>Vai na Web<strong>. Apaixonado por Tecnologia ❤️.</p>&nbsp;
+<p align="center">💻| Futuro programador | <br><br> Tenho 24 anos, Sou do interior do Rio grande do Norte. Estou cursando curso de front-end do <strong>Vai na Web<strong>. Apaixonado por Tecnologia ❤️.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=YureNathan&theme=tokyonight&mode=weekly" />
