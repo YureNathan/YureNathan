@@ -5,6 +5,33 @@
 
 💬 Aqui desenvolvo alguns projetos de estudos.
 
+---
+
+<h3>Projetos Desenvolvidos</h3>
+<table>
+    <thead align="center">
+        <tr border: none;>
+            <td><b>Id</b></td>
+	    <td><b>Projects</b></td>
+	    <td><b>Skills</b></td>
+            <td><b>Stars</b></td>
+            <td><b>Forks</b></td>
+            <td><b>Issues</b></td>
+            <td><b>Pull requests</b></td>
+        </tr>
+    </thead>
+    <tbody>
+	<tr>
+		<td>1</td>
+            	<td><a href="https://github.com/YureNathan/mcdonalds"><b>Página mc donalds</b></a></td>
+		<td>Developer</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/YureNathan/mcdonalds?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/YureNathan/mcdonalds?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/YureNathan/mcdonalds?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/YureNathan/mcdonalds?style=flat-square&labelColor=343b41" /></td>
+        </tr>
+</table>
+
  ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-yurenathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yurenathan/)](https://www.linkedin.com/in/yurenathan/)
