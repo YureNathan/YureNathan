@@ -1,46 +1,30 @@
-<img align="center" style="margin-bottom:100px" width=100% src="capa.png" />
+
+## Olá, eu sou {Yure}!
+
+🔭 Futuro programador, atualmente estudo front-end com foco em se tornar full-stack.
+
+💬 Aqui desenvolvo alguns projetos de estudos.
+
+ ## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-yurenathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yurenathan/)](https://www.linkedin.com/in/yurenathan/)
+[![Gmail Badge](https://img.shields.io/badge/-yure.nathan303@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yure.nathan303@gmail.com)](mailto:yure.nathan303@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/YureNathan)
+
+---
+
+## 🚀 Minhas Skills
 
 
-<p align="center">💻| Futuro programador | <br><br> Tenho 24 anos, Sou do interior do Rio grande do Norte. Estou cursando curso de front-end do <strong>Vai na Web<strong>. Apaixonado por Tecnologia ❤️.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=YureNathan&theme=tokyonight&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YureNathan&layout=compact&theme=tokyonight" />
- </div>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 
 
+---
 
-## Tecnologias
+## ⭐ GitHub Stats
 
-#### Estudando no Momento:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-<img src="Programando.gif" min-width="450px" max-width="450px" width="450px" align="right" margin="0px" alt="programando pc">
-
-
-
-
-## Ferramentas:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=39c1ff)
-
-
-## Contato:
-#### Minhas redes
-<div> 
-<a href="https://www.instagram.com/yurenathan_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:yure.nathan303@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/yurenathan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>&nbsp;&nbsp;
-
-
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003140&height=120&section=footer"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YureNathan&show_icons=true)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
