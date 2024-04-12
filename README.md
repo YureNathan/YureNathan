@@ -1,5 +1,4 @@
 <img align="center" style="margin-bottom:100px" width=100% src="capa.png" />
-&nbsp;&nbsp;&nbsp;
 
 
 <p align="center">💻| Futuro programador | <br><br> Tenho 24 anos, Sou do interior do Rio grande do Norte. Estou cursando curso de front-end do <strong>Vai na Web<strong>. Apaixonado por Tecnologia ❤️.</p>&nbsp;
@@ -8,8 +7,7 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=YureNathan&theme=tokyonight&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YureNathan&layout=compact&theme=tokyonight" />
  </div>
- &nbsp;
- &nbsp;
+
 
 
 ## Tecnologias
@@ -17,9 +15,9 @@
 #### Estudando no Momento:
 
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <img src="Programando.gif" min-width="450px" max-width="450px" width="450px" align="right" margin="0px" alt="programando pc">
 
@@ -30,7 +28,7 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=39c1ff)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=39c1ff)
 
 
 ## Contato:
