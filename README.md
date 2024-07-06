@@ -1,5 +1,5 @@
 
-## Olá, eu sou {Yure}!
+## Olá, eu sou Yure!
 
 🔭 Futuro programador, atualmente estudo front-end com foco em se tornar full-stack.
 
